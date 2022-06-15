@@ -1,4 +1,4 @@
-package lexicon.se;
+package se.lexicon;
 
 import java.lang.String;
 import java.util.Arrays;
